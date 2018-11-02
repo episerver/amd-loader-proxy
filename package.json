@@ -1,0 +1,13 @@
+{
+    "name": "@episerver/amd-loader-proxy",
+    "version": "1.0.0",
+    "description": "A proxy to the AMD require function used in Episerver",
+    "main": "index.js",
+    "repository": "git@github.com:ben-mckernan/amd-loader-proxy.git",
+    "author": "Ben McKernan <ben-mckernan@users.noreply.github.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^5.8.0",
+        "eslint-config-episerver": "^1.0.0"
+    }
+}
